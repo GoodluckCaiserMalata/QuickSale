@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753142921582",
+    "project_id": "quicksale-59c23",
+    "storage_bucket": "quicksale-59c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753142921582:android:b5cdee6f4df517ca6c697f",
+        "android_client_info": {
+          "package_name": "com.example.quicksale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753142921582-5hb9mbjmle8jfshnoruc6s51b0rt2nfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-2l1hGSmQWnPTffLK4qkzJ3GU1wtp2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753142921582-5hb9mbjmle8jfshnoruc6s51b0rt2nfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
